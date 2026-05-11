@@ -1,4 +1,4 @@
-﻿pipeline {
+pipeline {
     agent any
     stages {
         stage('检出代码') {
