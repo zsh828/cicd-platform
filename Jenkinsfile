@@ -13,7 +13,7 @@ pipeline {
         }
         stage('Maven 构建与测试') {
             steps {
-                sh 'mvn clean compile test && cat /this-file-does-not-exist'
+                sh 'mvn clean compile test'
             }
         }
     }
