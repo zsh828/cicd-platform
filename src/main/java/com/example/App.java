@@ -5,3 +5,4 @@ public class App {
         System.out.println("Hello from CICD Platform!");
     }
 }
+import non.existent.BrokenClass;
