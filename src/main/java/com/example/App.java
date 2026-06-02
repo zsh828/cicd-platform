@@ -2,7 +2,6 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from CICD Platform!");
+        System.out.println("Hello, world!");
     }
 }
-import non.existent.BrokenClass;
